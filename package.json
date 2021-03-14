@@ -1,5 +1,5 @@
 {
-  "name": "logrocket-cli",
+  "name": "@pathurs/logrocket-cli",
   "version": "0.12.0",
   "description": "Command line tool for [LogRocket](https://logrocket.com/).",
   "main": "index.js",
